@@ -32,7 +32,7 @@ const app = {
     {
       name: 'Giàu vì bạn sang vì vợ',
       singer: 'MCK',
-      path: './music/song1.mp3',
+      path: 'https://github.com/luuhoang-linh/music-player/blob/main/music/song1.mp3',
       image: 'https://media.viez.vn/prod/2021/8/1/192913132_508136300601994_1673026616834777129_n_8965ce57a9.jpeg'
     },
     {
