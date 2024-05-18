@@ -1,0 +1,17 @@
+// basic
+1. render song
+2. scroll top and hide CD 
+3. play, pause, seek song
+4. CD rotate
+5. next, prevent song
+6. random song
+7. next, repeat when ended
+8. active song
+9. scroll active song into view - không làm
+10. play song when click 
+
+// add
+1. prev, next song add active when click 
+2. volume
+
+// config viết theo anh Sơn chứ chưa hiểu lắm, cho vào source nó cũng chẳng chạy nên kệ nó bỏ qua đi
